@@ -1,0 +1,12 @@
+.heading {
+    text-align: center;
+    font-size: 500%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box {
+    width: 30%;
+    color: rgb(171, 179, 185);
+    background-color: rgb(50, 58, 61);
+    font-family: 'Times New Roman', Times, serif;
+}
